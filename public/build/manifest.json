@@ -1,0 +1,40 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-bb1de989.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-476adf42.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "node_modules/datatables/media/images/sort_asc.png": {
+    "file": "assets/sort_asc-595704c3.png",
+    "src": "node_modules/datatables/media/images/sort_asc.png"
+  },
+  "node_modules/datatables/media/images/sort_asc_disabled.png": {
+    "file": "assets/sort_asc_disabled-a65b8f4f.png",
+    "src": "node_modules/datatables/media/images/sort_asc_disabled.png"
+  },
+  "node_modules/datatables/media/images/sort_both.png": {
+    "file": "assets/sort_both-3e016c23.png",
+    "src": "node_modules/datatables/media/images/sort_both.png"
+  },
+  "node_modules/datatables/media/images/sort_desc.png": {
+    "file": "assets/sort_desc-d08ed0e2.png",
+    "src": "node_modules/datatables/media/images/sort_desc.png"
+  },
+  "node_modules/datatables/media/images/sort_desc_disabled.png": {
+    "file": "assets/sort_desc_disabled-6c0f0c1b.png",
+    "src": "node_modules/datatables/media/images/sort_desc_disabled.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c551d729.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-3baa379b.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
